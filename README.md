@@ -2,7 +2,7 @@
 
 - Documentation: Sep 9th, 2025
 
-
+![alt text](wireframes/gemini-enhanced/round3/1.png)
 
 ## What I'm Working On
 
@@ -66,3 +66,32 @@ I love UTC not because I spent time in the military (I didn't) but because I'm b
 I'm also an ADHDer with a weird brain: I hate clocks with seconds displays as I find them distracting. But hours and minutes are A-okay. 
 
 I also like to see the date displayed in another weird format, like: `Mon, 09th Sep (09) 2025`. I like dd/mm/yyyy and this format is one I've stuck with to provide all the key details. If space is at a premium I hope that I retain enough sanity to remember the year and go, instead, with `Mon, 09th Sep (09)`. I can never remember - including now - how these are notated in MementoJS.
+
+
+---
+
+## Wireframes (Raw Sketches: Me; Enhanced Wireframes: Gemini Nano Banana)
+
+### Tab 1: Home
+
+Homescreen with clocks, main cam overlay (PIP), weather.
+
+![alt text](wireframes/gemini-enhanced/round3/1.png)
+
+### Tab 2: NVR / Cam Grid
+
+Embedded NVR with grid and cam views.
+
+![alt text](wireframes/gemini-enhanced/round3/2.png)
+
+### Tab 3: News / RSS Grid
+
+News and RSS grid with red alert pane. 
+
+![alt text](wireframes/gemini-enhanced/round3/3.png)
+
+### Tab 4: Comms Quadrant (Email And Cal)
+
+Essential comms quadrant with calendar and email views for personal and business inboxes.
+
+![alt text](wireframes/gemini-enhanced/round3/4.png)
